@@ -20,7 +20,7 @@ function render(){
 }
 const nav=document.querySelector('.tabs'),study=document.getElementById('study');
 if(!nav||!study)return;
-const btn=document.createElement('button');btn.textContent='PPPR 2027';btn.dataset.tab='pppr';nav.insertBefore(btn,nav.querySelector('[data-tab="study"]'));
+const btn=document.createElement('button');btn.textContent='PPPR 2027';btn.dataset.tab='pppr';nav.insertBefore(btn,nav.querySelector('[data-tab="study"]'));btn.addEventListener('click',()=>switchTab('pppr'));
 const section=document.createElement('section');section.id='pppr';section.className='view hidden';section.innerHTML='<div class="panel"><h2>Polícia Penal do Paraná — 2027</h2><div id="ppprContent" role="region" aria-label="Checklist de assuntos">Carregando trilha…</div></div>';study.parentNode.insertBefore(section,study);
 fetch(SOURCE,{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(data=>{if(!Array.isArray(data.groups))throw Error('Formato inválido');syllabus=data;render()}).catch(()=>render());
 })();
