@@ -1,16 +1,96 @@
 {
   "version": 1,
-  "updated_at": "2026-10-16",
+  "updated_at": "2026-10-25",
   "questions": [
     {
       "id": "feed-demo-cf144-p1-iii-2026",
       "topic": "Polícia Federal — funções",
       "ref": "CF/88, art. 144, § 1º, III",
       "text": "Segundo a Constituição Federal, a Polícia Federal exerce as funções de polícia marítima, __________ e de fronteiras.",
-      "opts": ["ferroviária", "aeroportuária", "militar", "penal"],
+      "opts": [
+        "ferroviária",
+        "aeroportuária",
+        "militar",
+        "penal"
+      ],
       "answer": 1,
       "law": "III - exercer as funções de polícia marítima, aeroportuária e de fronteiras;",
       "explanation": "Memorize: marítima, aeroportuária e de fronteiras. Esta é uma questão de demonstração do carregamento remoto, não uma questão inédita em conteúdo."
+    },
+    {
+      "id": "lep39-i",
+      "topic": "LEP — deveres do condenado",
+      "ref": "Lei 7.210/1984, art. 39, I",
+      "text": "Nos termos do art. 39 da LEP, constitui dever do condenado: __________ e cumprimento fiel da sentença.",
+      "opts": [
+        "comportamento disciplinado",
+        "reclusão",
+        "autorização",
+        "restrição"
+      ],
+      "answer": 0,
+      "law": "I - comportamento disciplinado e cumprimento fiel da sentença;",
+      "explanation": "Memorize a expressão literal do inciso I do art. 39."
+    },
+    {
+      "id": "lep39-ii",
+      "topic": "LEP — deveres do condenado",
+      "ref": "Lei 7.210/1984, art. 39, II",
+      "text": "Nos termos do art. 39 da LEP, constitui dever do condenado: __________ ao servidor e respeito a qualquer pessoa com quem deva relacionar-se.",
+      "opts": [
+        "obediência",
+        "reclusão",
+        "autorização",
+        "restrição"
+      ],
+      "answer": 0,
+      "law": "II - obediência ao servidor e respeito a qualquer pessoa com quem deva relacionar-se;",
+      "explanation": "Memorize a expressão literal do inciso II do art. 39."
+    },
+    {
+      "id": "lep39-iii",
+      "topic": "LEP — deveres do condenado",
+      "ref": "Lei 7.210/1984, art. 39, III",
+      "text": "Nos termos do art. 39 da LEP, constitui dever do condenado: __________ e respeito no trato com os demais condenados.",
+      "opts": [
+        "urbanidade",
+        "reclusão",
+        "autorização",
+        "restrição"
+      ],
+      "answer": 0,
+      "law": "III - urbanidade e respeito no trato com os demais condenados;",
+      "explanation": "Memorize a expressão literal do inciso III do art. 39."
+    },
+    {
+      "id": "lep39-v",
+      "topic": "LEP — deveres do condenado",
+      "ref": "Lei 7.210/1984, art. 39, V",
+      "text": "Nos termos do art. 39 da LEP, constitui dever do condenado: __________ do trabalho, das tarefas e das ordens recebidas.",
+      "opts": [
+        "execução",
+        "reclusão",
+        "autorização",
+        "restrição"
+      ],
+      "answer": 0,
+      "law": "V - execução do trabalho, das tarefas e das ordens recebidas;",
+      "explanation": "Memorize a expressão literal do inciso V do art. 39."
+    },
+    {
+      "id": "lep39-ix",
+      "topic": "LEP — deveres do condenado",
+      "ref": "Lei 7.210/1984, art. 39, IX",
+      "text": "Nos termos do art. 39 da LEP, constitui dever do condenado: higiene pessoal e __________ da cela ou alojamento.",
+      "opts": [
+        "asseio",
+        "reclusão",
+        "autorização",
+        "restrição"
+      ],
+      "answer": 0,
+      "law": "IX - higiene pessoal e asseio da cela ou alojamento;",
+      "explanation": "Memorize a expressão literal do inciso IX do art. 39."
     }
   ]
 }
