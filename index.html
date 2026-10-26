@@ -23,12 +23,12 @@ const questions=[
 const KEY='meu-painel-estudos-v1';const FEED_KEY='meu-painel-estudos-feed-v2';const CACHE_KEY='meu-painel-estudos-feed-cache-v2';const initial={version:1,goal:30,legacy:{total:30,correct:26,originalWrong:4,newLabelled:23,newCorrect:19,review:7,reviewCorrect:7},attempts:[],schedule:{},lastQuestion:null};
 let state;try{const saved=JSON.parse(localStorage.getItem(KEY));state=saved&&saved.version===1?saved:structuredClone(initial)}catch(e){state=structuredClone(initial)};
 let current=null,stage='question',chosen=null,mode='new',sessionSeen=new Set();let studyTrack='general',studyTopic=null,topicLabel='';
-function trackQuestions(){return questions.filter(q=>studyTrack==='pppr'?(studyTopic==='pppr-1-1'&&q.id.startsWith('lep')):!q.id.startsWith('lep'))}
+function questionTopic(q){return q.topicId || (q.id.startsWith('lep49')||q.id.startsWith('lep50')||q.id.startsWith('lep52')?'pppr-1-2':q.id.startsWith('lep')?'pppr-1-1':null)}function trackQuestions(){return questions.filter(q=>studyTrack==='pppr'?questionTopic(q)===studyTopic:!questionTopic(q))}
 function startTrack(track,topic=null,label=''){studyTrack=track;studyTopic=topic;topicLabel=label;current=null;sessionSeen.clear();switchTab('study');renderQuestion()}
 function endTopic(){current=null;document.getElementById('question').innerHTML='<h2>Assunto concluído nesta sessão</h2><p>Você respondeu todas as questões disponíveis de '+escapeHTML(topicLabel||'este assunto')+'. Nenhuma questão de outra matéria será exibida.</p><div class="actions"><button class="primary" onclick="startTrack(\'pppr\',studyTopic,topicLabel)">Refazer este assunto</button><button class="secondary" onclick="switchTab(\'pppr\')">Voltar aos tópicos</button></div>'}
 // Pacotes externos são dados, nunca código executável. IDs existentes não são sobrescritos.
 function validQuestion(q){return q&&typeof q.id==='string'&&/^[a-zA-Z0-9_-]{3,90}$/.test(q.id)&&['topic','ref','text','law','explanation'].every(k=>typeof q[k]==='string'&&q[k].trim().length>0&&q[k].length<14000)&&Array.isArray(q.opts)&&q.opts.length===4&&q.opts.every(o=>typeof o==='string'&&o.trim().length>0&&o.length<1000)&&Number.isInteger(q.answer)&&q.answer>=0&&q.answer<=3&&q.law.includes(q.opts[q.answer])&&q.text.includes('__________')}
-function addFeedQuestions(arr){let added=0;for(const q of arr){if(!validQuestion(q)||questions.some(x=>x.id===q.id))continue;questions.push(q);added++}return added}
+function addFeedQuestions(arr){let added=0;for(const q of arr){if(!validQuestion(q))continue;const old=questions.find(x=>x.id===q.id);if(old){if(q.topicId)old.topicId=q.topicId;continue}questions.push(q);added++}return added}
 try{const cached=JSON.parse(localStorage.getItem(CACHE_KEY)||'[]');if(Array.isArray(cached))addFeedQuestions(cached)}catch(e){}
 function statusSync(message){const el=document.getElementById('syncStatus');if(el)el.textContent=message}
 function getFeedURL(){const saved=localStorage.getItem(FEED_KEY);return saved===null?'https://santosguimaraesjoaopaulo-hash.github.io/Meu-painel-de-estudos/feed/questoes.json':saved}
@@ -57,4 +57,4 @@ renderDashboard();
 if ('serviceWorker' in navigator && (location.protocol === 'https:' || location.hostname === 'localhost')) {
   window.addEventListener('load', () => navigator.serviceWorker.register('./sw.js').catch(err => console.warn('Modo offline indisponível:',err)));
 }
-</script><script src="./pppr-2027.js?v=9"></script></body></html>
+</script><script src="./pppr-2027.js?v=11"></script></body></html>
