@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "updated_at": "2026-10-16",
+  "questions": [
+    {
+      "id": "feed-demo-cf144-p1-iii-2026",
+      "topic": "Polícia Federal — funções",
+      "ref": "CF/88, art. 144, § 1º, III",
+      "text": "Segundo a Constituição Federal, a Polícia Federal exerce as funções de polícia marítima, __________ e de fronteiras.",
+      "opts": ["ferroviária", "aeroportuária", "militar", "penal"],
+      "answer": 1,
+      "law": "III - exercer as funções de polícia marítima, aeroportuária e de fronteiras;",
+      "explanation": "Memorize: marítima, aeroportuária e de fronteiras. Esta é uma questão de demonstração do carregamento remoto, não uma questão inédita em conteúdo."
+    }
+  ]
+}
