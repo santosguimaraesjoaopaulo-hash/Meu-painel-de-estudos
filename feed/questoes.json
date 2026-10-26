@@ -304,6 +304,390 @@
       "answer": 1,
       "law": "VI - fiscalização do conteúdo da correspondência;",
       "explanation": "Memorize a expressão literal do Art. 52, VI da Lei de Execução Penal. Texto conferido no portal oficial do Planalto."
+    },
+    {
+      "id": "lep39-vii",
+      "topicId": "pppr-1-1",
+      "topic": "LEP — direitos e deveres dos presos",
+      "ref": "Lei nº 7.210/1984, art. 39, VII",
+      "text": "Constitui dever do condenado a __________ ou aos seus sucessores.",
+      "opts": [
+        "o despacho de rotina",
+        "indenização à vítima",
+        "a determinação administrativa",
+        "a autorização facultativa"
+      ],
+      "answer": 1,
+      "law": "VII - indenização à vítima ou aos seus sucessores;",
+      "explanation": "Memorize a expressão literal do art. 39, VII da LEP e compare com as demais alternativas."
+    },
+    {
+      "id": "lep39-pu",
+      "topicId": "pppr-1-1",
+      "topic": "LEP — direitos e deveres dos presos",
+      "ref": "Lei nº 7.210/1984, art. 39, parágrafo único",
+      "text": "Aplica-se ao __________, no que couber, o disposto no art. 39.",
+      "opts": [
+        "preso provisório",
+        "a determinação administrativa",
+        "a autorização facultativa",
+        "o despacho de rotina"
+      ],
+      "answer": 0,
+      "law": "Parágrafo único. Aplica-se ao preso provisório, no que couber, o disposto neste artigo.",
+      "explanation": "Memorize a expressão literal do art. 39, parágrafo único da LEP e compare com as demais alternativas."
+    },
+    {
+      "id": "lep40",
+      "topicId": "pppr-1-1",
+      "topic": "LEP — direitos e deveres dos presos",
+      "ref": "Lei nº 7.210/1984, art. 40",
+      "text": "Impõe-se a todas as autoridades o respeito à __________ dos condenados e dos presos provisórios.",
+      "opts": [
+        "a determinação administrativa",
+        "a autorização facultativa",
+        "o despacho de rotina",
+        "integridade física e moral"
+      ],
+      "answer": 3,
+      "law": "Art. 40 - Impõe-se a todas as autoridades o respeito à integridade física e moral dos condenados e dos presos provisórios.",
+      "explanation": "Memorize a expressão literal do art. 40 da LEP e compare com as demais alternativas."
+    },
+    {
+      "id": "lep41-i",
+      "topicId": "pppr-1-1",
+      "topic": "LEP — direitos e deveres dos presos",
+      "ref": "Lei nº 7.210/1984, art. 41, I",
+      "text": "Constitui direito do preso: __________.",
+      "opts": [
+        "a autorização facultativa",
+        "o despacho de rotina",
+        "alimentação suficiente e vestuário",
+        "a determinação administrativa"
+      ],
+      "answer": 2,
+      "law": "I - alimentação suficiente e vestuário;",
+      "explanation": "Memorize a expressão literal do art. 41, I da LEP e compare com as demais alternativas."
+    },
+    {
+      "id": "lep41-ii",
+      "topicId": "pppr-1-1",
+      "topic": "LEP — direitos e deveres dos presos",
+      "ref": "Lei nº 7.210/1984, art. 41, II",
+      "text": "Constitui direito do preso: __________.",
+      "opts": [
+        "o despacho de rotina",
+        "atribuição de trabalho e sua remuneração",
+        "a determinação administrativa",
+        "a autorização facultativa"
+      ],
+      "answer": 1,
+      "law": "II - atribuição de trabalho e sua remuneração;",
+      "explanation": "Memorize a expressão literal do art. 41, II da LEP e compare com as demais alternativas."
+    },
+    {
+      "id": "lep41-iii",
+      "topicId": "pppr-1-1",
+      "topic": "LEP — direitos e deveres dos presos",
+      "ref": "Lei nº 7.210/1984, art. 41, III",
+      "text": "Constitui direito do preso: __________.",
+      "opts": [
+        "previdência social",
+        "a determinação administrativa",
+        "a autorização facultativa",
+        "o despacho de rotina"
+      ],
+      "answer": 0,
+      "law": "III - previdência social;",
+      "explanation": "Memorize a expressão literal do art. 41, III da LEP e compare com as demais alternativas."
+    },
+    {
+      "id": "lep41-iv",
+      "topicId": "pppr-1-1",
+      "topic": "LEP — direitos e deveres dos presos",
+      "ref": "Lei nº 7.210/1984, art. 41, IV",
+      "text": "Constitui direito do preso: __________.",
+      "opts": [
+        "a determinação administrativa",
+        "a autorização facultativa",
+        "o despacho de rotina",
+        "constituição de pecúlio"
+      ],
+      "answer": 3,
+      "law": "IV - constituição de pecúlio;",
+      "explanation": "Memorize a expressão literal do art. 41, IV da LEP e compare com as demais alternativas."
+    },
+    {
+      "id": "lep41-vii",
+      "topicId": "pppr-1-1",
+      "topic": "LEP — direitos e deveres dos presos",
+      "ref": "Lei nº 7.210/1984, art. 41, VII",
+      "text": "Constitui direito do preso: __________.",
+      "opts": [
+        "a autorização facultativa",
+        "o despacho de rotina",
+        "assistência material, à saúde, jurídica, educacional, social e religiosa",
+        "a determinação administrativa"
+      ],
+      "answer": 2,
+      "law": "VII - assistência material, à saúde, jurídica, educacional, social e religiosa;",
+      "explanation": "Memorize a expressão literal do art. 41, VII da LEP e compare com as demais alternativas."
+    },
+    {
+      "id": "lep41-ix",
+      "topicId": "pppr-1-1",
+      "topic": "LEP — direitos e deveres dos presos",
+      "ref": "Lei nº 7.210/1984, art. 41, IX",
+      "text": "Constitui direito do preso: __________.",
+      "opts": [
+        "o despacho de rotina",
+        "entrevista pessoal e reservada com o advogado",
+        "a determinação administrativa",
+        "a autorização facultativa"
+      ],
+      "answer": 1,
+      "law": "IX - entrevista pessoal e reservada com o advogado;",
+      "explanation": "Memorize a expressão literal do art. 41, IX da LEP e compare com as demais alternativas."
+    },
+    {
+      "id": "lep41-xi",
+      "topicId": "pppr-1-1",
+      "topic": "LEP — direitos e deveres dos presos",
+      "ref": "Lei nº 7.210/1984, art. 41, XI",
+      "text": "Constitui direito do preso: __________.",
+      "opts": [
+        "chamamento nominal",
+        "a determinação administrativa",
+        "a autorização facultativa",
+        "o despacho de rotina"
+      ],
+      "answer": 0,
+      "law": "XI - chamamento nominal;",
+      "explanation": "Memorize a expressão literal do art. 41, XI da LEP e compare com as demais alternativas."
+    },
+    {
+      "id": "lep44-caput",
+      "topicId": "pppr-1-2",
+      "topic": "LEP — faltas disciplinares e RDD",
+      "ref": "Lei nº 7.210/1984, art. 44, caput",
+      "text": "A disciplina consiste na __________, na obediência às determinações das autoridades e seus agentes e no desempenho do trabalho.",
+      "opts": [
+        "a determinação administrativa",
+        "a autorização facultativa",
+        "o despacho de rotina",
+        "colaboração com a ordem"
+      ],
+      "answer": 3,
+      "law": "Art. 44. A disciplina consiste na colaboração com a ordem, na obediência às determinações das autoridades e seus agentes e no desempenho do trabalho.",
+      "explanation": "Memorize a expressão literal do art. 44, caput da LEP e compare com as demais alternativas."
+    },
+    {
+      "id": "lep45-caput",
+      "topicId": "pppr-1-2",
+      "topic": "LEP — faltas disciplinares e RDD",
+      "ref": "Lei nº 7.210/1984, art. 45, caput",
+      "text": "Não haverá falta nem sanção disciplinar sem __________.",
+      "opts": [
+        "a autorização facultativa",
+        "o despacho de rotina",
+        "expressa e anterior previsão legal ou regulamentar",
+        "a determinação administrativa"
+      ],
+      "answer": 2,
+      "law": "Art. 45. Não haverá falta nem sanção disciplinar sem expressa e anterior previsão legal ou regulamentar.",
+      "explanation": "Memorize a expressão literal do art. 45, caput da LEP e compare com as demais alternativas."
+    },
+    {
+      "id": "lep45-p2",
+      "topicId": "pppr-1-2",
+      "topic": "LEP — faltas disciplinares e RDD",
+      "ref": "Lei nº 7.210/1984, art. 45, § 2º",
+      "text": "É vedado o __________.",
+      "opts": [
+        "o despacho de rotina",
+        "emprego de cela escura",
+        "a determinação administrativa",
+        "a autorização facultativa"
+      ],
+      "answer": 1,
+      "law": "§ 2º - É vedado o emprego de cela escura.",
+      "explanation": "Memorize a expressão literal do art. 45, § 2º da LEP e compare com as demais alternativas."
+    },
+    {
+      "id": "lep45-p3",
+      "topicId": "pppr-1-2",
+      "topic": "LEP — faltas disciplinares e RDD",
+      "ref": "Lei nº 7.210/1984, art. 45, § 3º",
+      "text": "São vedadas as __________.",
+      "opts": [
+        "sanções coletivas",
+        "a determinação administrativa",
+        "a autorização facultativa",
+        "o despacho de rotina"
+      ],
+      "answer": 0,
+      "law": "§ 3º - São vedadas as sanções coletivas.",
+      "explanation": "Memorize a expressão literal do art. 45, § 3º da LEP e compare com as demais alternativas."
+    },
+    {
+      "id": "lep50-i",
+      "topicId": "pppr-1-2",
+      "topic": "LEP — faltas disciplinares e RDD",
+      "ref": "Lei nº 7.210/1984, art. 50, I",
+      "text": "Constitui falta grave __________ para subverter a ordem ou a disciplina.",
+      "opts": [
+        "a determinação administrativa",
+        "a autorização facultativa",
+        "o despacho de rotina",
+        "incitar ou participar de movimento"
+      ],
+      "answer": 3,
+      "law": "I - incitar ou participar de movimento para subverter a ordem ou a disciplina;",
+      "explanation": "Memorize a expressão literal do art. 50, I da LEP e compare com as demais alternativas."
+    },
+    {
+      "id": "lep50-iv",
+      "topicId": "pppr-1-2",
+      "topic": "LEP — faltas disciplinares e RDD",
+      "ref": "Lei nº 7.210/1984, art. 50, IV",
+      "text": "Constitui falta grave __________.",
+      "opts": [
+        "a autorização facultativa",
+        "o despacho de rotina",
+        "provocar acidente de trabalho",
+        "a determinação administrativa"
+      ],
+      "answer": 2,
+      "law": "IV - provocar acidente de trabalho;",
+      "explanation": "Memorize a expressão literal do art. 50, IV da LEP e compare com as demais alternativas."
+    },
+    {
+      "id": "lep50-v",
+      "topicId": "pppr-1-2",
+      "topic": "LEP — faltas disciplinares e RDD",
+      "ref": "Lei nº 7.210/1984, art. 50, V",
+      "text": "Constitui falta grave __________.",
+      "opts": [
+        "o despacho de rotina",
+        "descumprir, no regime aberto, as condições impostas",
+        "a determinação administrativa",
+        "a autorização facultativa"
+      ],
+      "answer": 1,
+      "law": "V - descumprir, no regime aberto, as condições impostas;",
+      "explanation": "Memorize a expressão literal do art. 50, V da LEP e compare com as demais alternativas."
+    },
+    {
+      "id": "lep50-vi",
+      "topicId": "pppr-1-2",
+      "topic": "LEP — faltas disciplinares e RDD",
+      "ref": "Lei nº 7.210/1984, art. 50, VI",
+      "text": "Constitui falta grave __________ do artigo 39 da LEP.",
+      "opts": [
+        "inobservar os deveres previstos nos incisos II e V",
+        "a determinação administrativa",
+        "a autorização facultativa",
+        "o despacho de rotina"
+      ],
+      "answer": 0,
+      "law": "VI - inobservar os deveres previstos nos incisos II e V do artigo 39 desta Lei.",
+      "explanation": "Memorize a expressão literal do art. 50, VI da LEP e compare com as demais alternativas."
+    },
+    {
+      "id": "lep51-i",
+      "topicId": "pppr-1-2",
+      "topic": "LEP — faltas disciplinares e RDD",
+      "ref": "Lei nº 7.210/1984, art. 51, I",
+      "text": "Comete falta grave o condenado à pena restritiva de direitos que __________.",
+      "opts": [
+        "a determinação administrativa",
+        "a autorização facultativa",
+        "o despacho de rotina",
+        "descumprir, injustificadamente, a restrição imposta"
+      ],
+      "answer": 3,
+      "law": "I - descumprir, injustificadamente, a restrição imposta;",
+      "explanation": "Memorize a expressão literal do art. 51, I da LEP e compare com as demais alternativas."
+    },
+    {
+      "id": "lep53-i",
+      "topicId": "pppr-1-2",
+      "topic": "LEP — faltas disciplinares e RDD",
+      "ref": "Lei nº 7.210/1984, art. 53, I",
+      "text": "Constitui sanção disciplinar: __________.",
+      "opts": [
+        "a autorização facultativa",
+        "o despacho de rotina",
+        "advertência verbal",
+        "a determinação administrativa"
+      ],
+      "answer": 2,
+      "law": "I - advertência verbal;",
+      "explanation": "Memorize a expressão literal do art. 53, I da LEP e compare com as demais alternativas."
+    },
+    {
+      "id": "lep53-ii",
+      "topicId": "pppr-1-2",
+      "topic": "LEP — faltas disciplinares e RDD",
+      "ref": "Lei nº 7.210/1984, art. 53, II",
+      "text": "Constitui sanção disciplinar: __________.",
+      "opts": [
+        "o despacho de rotina",
+        "repreensão",
+        "a determinação administrativa",
+        "a autorização facultativa"
+      ],
+      "answer": 1,
+      "law": "II - repreensão;",
+      "explanation": "Memorize a expressão literal do art. 53, II da LEP e compare com as demais alternativas."
+    },
+    {
+      "id": "lep56-i",
+      "topicId": "pppr-1-2",
+      "topic": "LEP — faltas disciplinares e RDD",
+      "ref": "Lei nº 7.210/1984, art. 56, I",
+      "text": "Constitui recompensa: __________.",
+      "opts": [
+        "elogio",
+        "a determinação administrativa",
+        "a autorização facultativa",
+        "o despacho de rotina"
+      ],
+      "answer": 0,
+      "law": "I - o elogio;",
+      "explanation": "Memorize a expressão literal do art. 56, I da LEP e compare com as demais alternativas."
+    },
+    {
+      "id": "lep58-pu",
+      "topicId": "pppr-1-2",
+      "topic": "LEP — faltas disciplinares e RDD",
+      "ref": "Lei nº 7.210/1984, art. 58, parágrafo único",
+      "text": "O isolamento será sempre comunicado ao __________.",
+      "opts": [
+        "a determinação administrativa",
+        "a autorização facultativa",
+        "o despacho de rotina",
+        "Juiz da execução"
+      ],
+      "answer": 3,
+      "law": "Parágrafo único. O isolamento será sempre comunicado ao Juiz da execução.",
+      "explanation": "Memorize a expressão literal do art. 58, parágrafo único da LEP e compare com as demais alternativas."
+    },
+    {
+      "id": "lep59-pu",
+      "topicId": "pppr-1-2",
+      "topic": "LEP — faltas disciplinares e RDD",
+      "ref": "Lei nº 7.210/1984, art. 59, parágrafo único",
+      "text": "No procedimento disciplinar, a decisão será __________.",
+      "opts": [
+        "a autorização facultativa",
+        "o despacho de rotina",
+        "motivada",
+        "a determinação administrativa"
+      ],
+      "answer": 2,
+      "law": "Parágrafo único. A decisão será motivada.",
+      "explanation": "Memorize a expressão literal do art. 59, parágrafo único da LEP e compare com as demais alternativas."
     }
   ]
 }
