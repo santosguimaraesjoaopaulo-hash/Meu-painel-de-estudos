@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-25",
+  "updated_at": "2026-10-26",
   "questions": [
     {
       "id": "feed-demo-cf144-p1-iii-2026",
@@ -30,7 +30,8 @@
       ],
       "answer": 0,
       "law": "I - comportamento disciplinado e cumprimento fiel da sentença;",
-      "explanation": "Memorize a expressão literal do inciso I do art. 39."
+      "explanation": "Memorize a expressão literal do inciso I do art. 39.",
+      "topicId": "pppr-1-1"
     },
     {
       "id": "lep39-ii",
@@ -45,7 +46,8 @@
       ],
       "answer": 0,
       "law": "II - obediência ao servidor e respeito a qualquer pessoa com quem deva relacionar-se;",
-      "explanation": "Memorize a expressão literal do inciso II do art. 39."
+      "explanation": "Memorize a expressão literal do inciso II do art. 39.",
+      "topicId": "pppr-1-1"
     },
     {
       "id": "lep39-iii",
@@ -60,7 +62,8 @@
       ],
       "answer": 0,
       "law": "III - urbanidade e respeito no trato com os demais condenados;",
-      "explanation": "Memorize a expressão literal do inciso III do art. 39."
+      "explanation": "Memorize a expressão literal do inciso III do art. 39.",
+      "topicId": "pppr-1-1"
     },
     {
       "id": "lep39-v",
@@ -75,7 +78,8 @@
       ],
       "answer": 0,
       "law": "V - execução do trabalho, das tarefas e das ordens recebidas;",
-      "explanation": "Memorize a expressão literal do inciso V do art. 39."
+      "explanation": "Memorize a expressão literal do inciso V do art. 39.",
+      "topicId": "pppr-1-1"
     },
     {
       "id": "lep39-ix",
@@ -90,7 +94,216 @@
       ],
       "answer": 0,
       "law": "IX - higiene pessoal e asseio da cela ou alojamento;",
-      "explanation": "Memorize a expressão literal do inciso IX do art. 39."
+      "explanation": "Memorize a expressão literal do inciso IX do art. 39.",
+      "topicId": "pppr-1-1"
+    },
+    {
+      "id": "lep38",
+      "topicId": "pppr-1-1",
+      "topic": "LEP — direitos e deveres dos presos",
+      "ref": "Lei nº 7.210/1984, Art. 38",
+      "text": "Cumpre ao condenado, além das obrigações legais inerentes ao seu estado, __________ às normas de execução da pena.",
+      "opts": [
+        "autorização judicial",
+        "submeter-se",
+        "medida facultativa",
+        "procedimento administrativo"
+      ],
+      "answer": 1,
+      "law": "Art. 38. Cumpre ao condenado, além das obrigações legais inerentes ao seu estado, submeter-se às normas de execução da pena.",
+      "explanation": "Memorize a expressão literal do Art. 38 da Lei de Execução Penal. Texto conferido no portal oficial do Planalto."
+    },
+    {
+      "id": "lep39-iv",
+      "topicId": "pppr-1-1",
+      "topic": "LEP — direitos e deveres dos presos",
+      "ref": "Lei nº 7.210/1984, Art. 39, IV",
+      "text": "Constitui dever do condenado a __________ aos movimentos individuais ou coletivos de fuga ou de subversão à ordem ou à disciplina.",
+      "opts": [
+        "autorização judicial",
+        "conduta oposta",
+        "medida facultativa",
+        "procedimento administrativo"
+      ],
+      "answer": 1,
+      "law": "IV - conduta oposta aos movimentos individuais ou coletivos de fuga ou de subversão à ordem ou à disciplina;",
+      "explanation": "Memorize a expressão literal do Art. 39, IV da Lei de Execução Penal. Texto conferido no portal oficial do Planalto."
+    },
+    {
+      "id": "lep39-vi",
+      "topicId": "pppr-1-1",
+      "topic": "LEP — direitos e deveres dos presos",
+      "ref": "Lei nº 7.210/1984, Art. 39, VI",
+      "text": "Constitui dever do condenado a __________ à sanção disciplinar imposta.",
+      "opts": [
+        "autorização judicial",
+        "submissão",
+        "medida facultativa",
+        "procedimento administrativo"
+      ],
+      "answer": 1,
+      "law": "VI - submissão à sanção disciplinar imposta;",
+      "explanation": "Memorize a expressão literal do Art. 39, VI da Lei de Execução Penal. Texto conferido no portal oficial do Planalto."
+    },
+    {
+      "id": "lep39-viii",
+      "topicId": "pppr-1-1",
+      "topic": "LEP — direitos e deveres dos presos",
+      "ref": "Lei nº 7.210/1984, Art. 39, VIII",
+      "text": "A indenização ao Estado, quando possível, ocorre mediante __________ da remuneração do trabalho.",
+      "opts": [
+        "autorização judicial",
+        "desconto proporcional",
+        "medida facultativa",
+        "procedimento administrativo"
+      ],
+      "answer": 1,
+      "law": "VIII - indenização ao Estado, quando possível, das despesas realizadas com a sua manutenção, mediante desconto proporcional da remuneração do trabalho;",
+      "explanation": "Memorize a expressão literal do Art. 39, VIII da Lei de Execução Penal. Texto conferido no portal oficial do Planalto."
+    },
+    {
+      "id": "lep39-x",
+      "topicId": "pppr-1-1",
+      "topic": "LEP — direitos e deveres dos presos",
+      "ref": "Lei nº 7.210/1984, Art. 39, X",
+      "text": "Constitui dever do condenado a __________ dos objetos de uso pessoal.",
+      "opts": [
+        "autorização judicial",
+        "conservação",
+        "medida facultativa",
+        "procedimento administrativo"
+      ],
+      "answer": 1,
+      "law": "X - conservação dos objetos de uso pessoal.",
+      "explanation": "Memorize a expressão literal do Art. 39, X da Lei de Execução Penal. Texto conferido no portal oficial do Planalto."
+    },
+    {
+      "id": "lep49-caput",
+      "topicId": "pppr-1-2",
+      "topic": "LEP — faltas disciplinares e RDD",
+      "ref": "Lei nº 7.210/1984, Art. 49, caput",
+      "text": "As faltas disciplinares classificam-se em __________.",
+      "opts": [
+        "autorização judicial",
+        "leves, médias e graves",
+        "medida facultativa",
+        "procedimento administrativo"
+      ],
+      "answer": 1,
+      "law": "Art. 49. As faltas disciplinares classificam-se em leves, médias e graves. A legislação local especificará as leves e médias, bem assim as respectivas sanções.",
+      "explanation": "Memorize a expressão literal do Art. 49, caput da Lei de Execução Penal. Texto conferido no portal oficial do Planalto."
+    },
+    {
+      "id": "lep49-pu",
+      "topicId": "pppr-1-2",
+      "topic": "LEP — faltas disciplinares e RDD",
+      "ref": "Lei nº 7.210/1984, Art. 49, parágrafo único",
+      "text": "Pune-se a __________ com a sanção correspondente à falta consumada.",
+      "opts": [
+        "autorização judicial",
+        "tentativa",
+        "medida facultativa",
+        "procedimento administrativo"
+      ],
+      "answer": 1,
+      "law": "Parágrafo único. Pune-se a tentativa com a sanção correspondente à falta consumada.",
+      "explanation": "Memorize a expressão literal do Art. 49, parágrafo único da Lei de Execução Penal. Texto conferido no portal oficial do Planalto."
+    },
+    {
+      "id": "lep50-ii",
+      "topicId": "pppr-1-2",
+      "topic": "LEP — faltas disciplinares e RDD",
+      "ref": "Lei nº 7.210/1984, Art. 50, II",
+      "text": "Comete falta grave o condenado à pena privativa de liberdade que: __________.",
+      "opts": [
+        "autorização judicial",
+        "fugir",
+        "medida facultativa",
+        "procedimento administrativo"
+      ],
+      "answer": 1,
+      "law": "II - fugir;",
+      "explanation": "Memorize a expressão literal do Art. 50, II da Lei de Execução Penal. Texto conferido no portal oficial do Planalto."
+    },
+    {
+      "id": "lep50-iii",
+      "topicId": "pppr-1-2",
+      "topic": "LEP — faltas disciplinares e RDD",
+      "ref": "Lei nº 7.210/1984, Art. 50, III",
+      "text": "Constitui falta grave possuir, indevidamente, __________ capaz de ofender a integridade física de outrem.",
+      "opts": [
+        "autorização judicial",
+        "instrumento",
+        "medida facultativa",
+        "procedimento administrativo"
+      ],
+      "answer": 1,
+      "law": "III - possuir, indevidamente, instrumento capaz de ofender a integridade física de outrem;",
+      "explanation": "Memorize a expressão literal do Art. 50, III da Lei de Execução Penal. Texto conferido no portal oficial do Planalto."
+    },
+    {
+      "id": "lep50-viii",
+      "topicId": "pppr-1-2",
+      "topic": "LEP — faltas disciplinares e RDD",
+      "ref": "Lei nº 7.210/1984, Art. 50, VIII",
+      "text": "Constitui falta grave recusar submeter-se ao procedimento de identificação do __________.",
+      "opts": [
+        "autorização judicial",
+        "perfil genético",
+        "medida facultativa",
+        "procedimento administrativo"
+      ],
+      "answer": 1,
+      "law": "VIII - recusar submeter-se ao procedimento de identificação do perfil genético.",
+      "explanation": "Memorize a expressão literal do Art. 50, VIII da Lei de Execução Penal. Texto conferido no portal oficial do Planalto."
+    },
+    {
+      "id": "lep52-i",
+      "topicId": "pppr-1-2",
+      "topic": "LEP — faltas disciplinares e RDD",
+      "ref": "Lei nº 7.210/1984, Art. 52, I",
+      "text": "O regime disciplinar diferenciado tem duração máxima de até __________, sem prejuízo de repetição da sanção por nova falta grave de mesma espécie.",
+      "opts": [
+        "autorização judicial",
+        "2 (dois) anos",
+        "medida facultativa",
+        "procedimento administrativo"
+      ],
+      "answer": 1,
+      "law": "I - duração máxima de até 2 (dois) anos, sem prejuízo de repetição da sanção por nova falta grave de mesma espécie;",
+      "explanation": "Memorize a expressão literal do Art. 52, I da Lei de Execução Penal. Texto conferido no portal oficial do Planalto."
+    },
+    {
+      "id": "lep52-ii",
+      "topicId": "pppr-1-2",
+      "topic": "LEP — faltas disciplinares e RDD",
+      "ref": "Lei nº 7.210/1984, Art. 52, II",
+      "text": "Uma das características do regime disciplinar diferenciado é o recolhimento em __________.",
+      "opts": [
+        "autorização judicial",
+        "cela individual",
+        "medida facultativa",
+        "procedimento administrativo"
+      ],
+      "answer": 1,
+      "law": "II - recolhimento em cela individual;",
+      "explanation": "Memorize a expressão literal do Art. 52, II da Lei de Execução Penal. Texto conferido no portal oficial do Planalto."
+    },
+    {
+      "id": "lep52-vi",
+      "topicId": "pppr-1-2",
+      "topic": "LEP — faltas disciplinares e RDD",
+      "ref": "Lei nº 7.210/1984, Art. 52, VI",
+      "text": "No regime disciplinar diferenciado, há fiscalização do conteúdo da __________.",
+      "opts": [
+        "autorização judicial",
+        "correspondência",
+        "medida facultativa",
+        "procedimento administrativo"
+      ],
+      "answer": 1,
+      "law": "VI - fiscalização do conteúdo da correspondência;",
+      "explanation": "Memorize a expressão literal do Art. 52, VI da Lei de Execução Penal. Texto conferido no portal oficial do Planalto."
     }
   ]
 }
