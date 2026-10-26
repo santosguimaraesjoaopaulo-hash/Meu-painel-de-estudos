@@ -12,11 +12,11 @@ function render(){
  const topics=syllabus.groups.flatMap(g=>g.topics),done=topics.filter(t=>checked[t.id]).length;
  el.innerHTML='<p class="muted">Planejamento pré-edital baseado no vídeo fornecido. As projeções não são exigências oficiais de 2027.</p>'+
  '<div class="stat" style="margin:12px 0"><span class="muted">Assuntos marcados como estudados</span><b>'+done+' / '+topics.length+'</b><div class="progress"><div style="width:'+(100*done/topics.length)+'%"></div></div></div>'+
- '<p class="muted">Prioridade inicial: Lei de Execução Penal. Marcar um assunto não significa domínio comprovado.</p>'+
+ '<p class="muted">Prioridade inicial: Lei de Execução Penal. Marcar um assunto não significa domínio comprovado.</p><div class="actions"><button class="primary" id="startPPPR">Estudar questões da PPPR 2027</button></div>'+
  syllabus.groups.map(g=>'<details style="margin:12px 0;border:1px solid #dce4ef;border-radius:10px;padding:12px" '+(g.id==='bloco-1'?'open':'')+'><summary style="font-weight:700;cursor:pointer">'+esc(g.name)+' ('+g.topics.filter(t=>checked[t.id]).length+'/'+g.topics.length+')</summary>'+
  g.topics.map(t=>'<label style="display:flex;gap:10px;align-items:flex-start;margin:13px 0;cursor:pointer"><input type="checkbox" data-topic="'+esc(t.id)+'" '+(checked[t.id]?'checked':'')+'><span>'+esc(t.title)+'</span></label>').join('')+'</details>').join('')+
  '<p class="muted">Seu checklist fica salvo neste navegador. Use o backup do navegador para não perder seu progresso.</p>';
- el.querySelectorAll('input[data-topic]').forEach(input=>input.addEventListener('change',()=>{checked[input.dataset.topic]=input.checked;try{localStorage.setItem(KEY,JSON.stringify(checked))}catch(_){}render()}));
+ el.querySelector('#startPPPR').addEventListener('click',()=>startTrack('pppr'));el.querySelectorAll('input[data-topic]').forEach(input=>input.addEventListener('change',()=>{checked[input.dataset.topic]=input.checked;try{localStorage.setItem(KEY,JSON.stringify(checked))}catch(_){}render()}));
 }
 const nav=document.querySelector('.tabs'),study=document.getElementById('study');
 if(!nav||!study)return;
