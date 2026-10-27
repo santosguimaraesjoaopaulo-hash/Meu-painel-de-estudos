@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-26",
+  "updated_at": "2026-10-27",
   "questions": [
     {
       "id": "feed-demo-cf144-p1-iii-2026",
@@ -768,6 +768,86 @@
       "answer": 2,
       "law": "Art. 128. O tempo remido será computado como pena cumprida, para todos os efeitos.",
       "explanation": "O tempo remido integra o tempo de pena já cumprida para todos os efeitos, conforme a regra expressa do art. 128."
+    },
+    {
+      "id": "lep120-caput-escolta-20261027",
+      "ref": "Lei nº 7.210/1984, art. 120, caput",
+      "text": "A permissão de saída dos condenados em regime fechado ou semi-aberto e dos presos provisórios ocorrerá __________, nas hipóteses legais.",
+      "opts": [
+        "sem qualquer fiscalização",
+        "mediante escolta",
+        "somente com monitoração eletrônica",
+        "após autorização do Conselho Penitenciário"
+      ],
+      "answer": 1,
+      "law": "Art. 120. Os condenados que cumprem pena em regime fechado ou semi-aberto e os presos provisórios poderão obter permissão para sair do estabelecimento, mediante escolta, quando ocorrer um dos seguintes fatos:",
+      "explanation": "A permissão de saída do art. 120 é acompanhada de escolta e abrange condenados em regime fechado ou semi-aberto e presos provisórios nas hipóteses legais. Não confunda com a saída temporária, que ocorre sem vigilância direta.",
+      "topicId": "pppr-1-4",
+      "topic": "LEP — autorizações de saída: permissão de saída e saída temporária"
+    },
+    {
+      "id": "lep120-pu-diretor-20261027",
+      "ref": "Lei nº 7.210/1984, art. 120, parágrafo único",
+      "text": "Nos termos da LEP, a permissão de saída será concedida pelo __________ onde se encontra o preso.",
+      "opts": [
+        "juiz da execução",
+        "Ministério Público",
+        "diretor do estabelecimento",
+        "Conselho Penitenciário"
+      ],
+      "answer": 2,
+      "law": "Parágrafo único. A permissão de saída será concedida pelo diretor do estabelecimento onde se encontra o preso.",
+      "explanation": "A autoridade competente para conceder a permissão de saída é o diretor do estabelecimento. A autorização para saída temporária, por sua vez, compete ao juiz da execução (art. 123).",
+      "topicId": "pppr-1-4",
+      "topic": "LEP — autorizações de saída: permissão de saída e saída temporária"
+    },
+    {
+      "id": "lep121-duracao-20261027",
+      "ref": "Lei nº 7.210/1984, art. 121",
+      "text": "De acordo com o art. 121 da LEP, a permanência do preso fora do estabelecimento terá __________.",
+      "opts": [
+        "duração necessária à finalidade da saída",
+        "prazo fixo de sete dias",
+        "prazo mínimo de trinta dias",
+        "duração determinada pelo Conselho Penitenciário"
+      ],
+      "answer": 0,
+      "law": "Art. 121. A permanência do preso fora do estabelecimento terá a duração necessária à finalidade da saída.",
+      "explanation": "Na permissão de saída, a duração é vinculada à finalidade concreta que motivou a autorização, não a um prazo fixo geral.",
+      "topicId": "pppr-1-4",
+      "topic": "LEP — autorizações de saída: permissão de saída e saída temporária"
+    },
+    {
+      "id": "lep122-p2-impedimento-20261027",
+      "ref": "Lei nº 7.210/1984, art. 122, § 2º",
+      "text": "Não terá direito à saída temporária ou a trabalho externo sem vigilância direta o condenado que cumpre pena por praticar __________.",
+      "opts": [
+        "crime culposo sem violência",
+        "contravenção penal",
+        "crime hediondo ou com violência ou grave ameaça contra pessoa",
+        "crime exclusivamente patrimonial sem violência"
+      ],
+      "answer": 2,
+      "law": "§ 2º Não terá direito à saída temporária de que trata o caput deste artigo ou a trabalho externo sem vigilância direta o condenado que cumpre pena por praticar crime hediondo ou com violência ou grave ameaça contra pessoa.",
+      "explanation": "O § 2º do art. 122, na redação dada pela Lei nº 14.843/2024, impede tanto a saída temporária quanto o trabalho externo sem vigilância direta nas hipóteses especificadas. Não confunda com os incisos I e III do art. 122, que foram revogados.",
+      "topicId": "pppr-1-4",
+      "topic": "LEP — autorizações de saída: permissão de saída e saída temporária"
+    },
+    {
+      "id": "lep123-caput-juiz-20261027",
+      "ref": "Lei nº 7.210/1984, art. 123, caput",
+      "text": "A autorização para saída temporária será concedida por ato motivado do __________, ouvidos o Ministério Público e a administração penitenciária.",
+      "opts": [
+        "diretor do estabelecimento",
+        "Juiz da execução",
+        "Conselho Penitenciário",
+        "delegado de polícia"
+      ],
+      "answer": 1,
+      "law": "Art. 123. A autorização será concedida por ato motivado do Juiz da execução, ouvidos o Ministério Público e a administração penitenciária e dependerá da satisfação dos seguintes requisitos:",
+      "explanation": "A saída temporária exige ato motivado do juiz da execução, após ouvir o Ministério Público e a administração penitenciária, além dos requisitos previstos no art. 123. A permissão de saída, diferentemente, é concedida pelo diretor do estabelecimento.",
+      "topicId": "pppr-1-4",
+      "topic": "LEP — autorizações de saída: permissão de saída e saída temporária"
     }
   ]
 }
